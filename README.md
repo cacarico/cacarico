@@ -1,6 +1,6 @@
 # Cacarico
 
-System Engineer and Unix lover based in Berlin
+System Engineer and Unix and Lua lover based in Berlin
 
 ## About me
 
