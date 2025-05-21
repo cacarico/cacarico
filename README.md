@@ -1,14 +1,13 @@
 # Cacarico
 
-System Engineer and Unix and Lua lover based in Berlin
+Systems Engineer, Unix and Lua lover based in Berlin
 
 ## About me
 
 Hello, I'm Caio :D 
 
-I've been working with IT since the past 10 years, during this time I've migrated over 30 companies to cloud and helped build Cloud Native architectures for all kind of companies.
+Most days you’ll find me tweaking my Arch Linux setup or diving deep into NeoVim configs. If you’re into that kind of thing (fancy terminals, custom scripts, questionable life choices), feel free to check out my [dotfiles](https://github.com/cacarico/dotfiles).
 
-Most of the time I'm customizing my Arch Linux and playing around with NeoVim. You can checkout my [Dotfiles](https://github.com/cacarico/dotfiles) if you, like me, is crazy for fancy looking terminals.  
-If I'm not in the computer you can easily find me at Apex Legends, I'm a casual player trying my lucky solo queuing and hoping to get Masters one day.
+I have a love-hate relationship with Kubernetes and Istio — the more I learn, the more I realize how much more there is to learn (and complain about). But hey, that’s half the fun.
 
-I have a love and hate ralationship with Istio and Kubernetes, and as more as I study more I realize it is not enough.
+When I’m not neck-deep in Lua or debugging something that shouldn’t be broken, I enjoy hacking on open source projects, exploring new tech, and occasionally building things nobody asked for.
